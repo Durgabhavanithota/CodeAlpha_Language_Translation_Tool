@@ -38,9 +38,21 @@ and get the translated result.
 - Error handling for failed translations
 - Empty input validation
 
-## ⚙️ How to Run
+##  How to Run
 
 ### 1. Install required libraries
 
 ```bash
 pip install deep-translator gradio
+### 2. Open the Jupyter Notebook
+
+Open:
+CodeAlpha_Language_Translation_Tool.ipynb
+
+3. Run the cells
+
+Run all the cells in the notebook.
+
+4. Launch the application
+
+The Gradio interface will open in the browser.
